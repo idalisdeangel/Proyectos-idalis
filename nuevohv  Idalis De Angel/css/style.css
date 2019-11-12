@@ -1,0 +1,114 @@
+.inicio{
+    display: flex;
+    justify-content: center;
+   background-color: #ffda2d;
+}
+
+.contenedor-header{
+    width: 40rem;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1rem;
+
+}
+
+.foto{
+    width: 8rem;
+    height: 12rem;
+    padding-bottom: 1rem;
+}
+
+.clasep p{
+    font-size: 1.3rem; 
+    color: #e02a00;
+}
+
+h1{
+    margin: 2rem 0 -1.7rem 0;
+    padding-top: 2rem;
+}
+h2{
+    color: #e02a00;
+    text-align: center;
+}
+
+p{
+    max-width: 30rem;
+}
+
+.experiencia{
+    display: flex;
+    justify-content: space-between;
+}
+
+.habilidades{
+    display: flex;
+    justify-content: space-between;
+}
+
+.educacion{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.perfil{
+    display: flex;
+    justify-content: space-between;
+}
+
+.portafolio{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cliente{
+    display: flex;
+}
+
+.img{
+    max-width: 40rem;
+}
+
+.barra1{
+    max-width: 60%;
+    background-color: blue;
+}
+
+.barra01{
+    border: solid;
+    width: 120%;
+    padding: 0.5rem;
+}
+
+.barra2{
+    max-width:60%;
+    background-color: blue;
+}
+
+.barra02{
+    border: solid;
+    width: 120%;
+    padding: 0.5rem;
+}
+
+.barra3{
+    max-width: 60%;
+    background-color: #ffda2d;
+}
+
+.barra03{
+    border: solid;
+    width: 120%;
+    padding: 0.5rem;
+}
+
+.barra4{
+    max-width: 60%;
+    background-color: #ffda2d;
+}
+.barra04{
+    border: solid;
+    width: 120%;
+    padding: 0.5rem;
+}
