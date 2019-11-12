@@ -1,0 +1,19 @@
+.columna1{
+    border: 0.7rem solid black;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: yellow;
+    display: flex;
+}
+
+.columna2{
+    border: 0.7rem solid black;
+    margin: 2rem;
+    padding: 2rem;
+    background-color: crimson;
+    display: flex;
+}
+
+.iconos{
+    
+}
